@@ -1,0 +1,38 @@
+{
+    "songQueue": [
+        {
+            "artist": "The Weeknd",
+            "name": "Escape From LA"
+        },
+        {
+            "artist": "The Weeknd",
+            "name": "Starboy"
+        },
+        {
+            "artist": "The Weeknd",
+            "name": "Kiss Land"
+        }
+    ],
+    "feedbacks": [
+        {
+            "feedback": "Thank you for your request! Your Song has been added to the queue!",
+            "artist": "The Weeknd",
+            "name": "Starboy"
+        },
+        {
+            "feedback": "Thank you for your request! Your Song has been added to the queue!",
+            "artist": "The Weeknd",
+            "name": "Kiss Land"
+        },
+        {
+            "feedback": "Pending approval",
+            "artist": "The Weeknd",
+            "name": "Try Me"
+        }
+    ],
+    "concertName": "EventLog test",
+    "songRequests": [{
+        "artist": "The Weeknd",
+        "name": "Try Me"
+    }]
+}
