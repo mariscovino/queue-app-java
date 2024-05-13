@@ -1,4 +1,4 @@
-# CPSC 210 Personal Project: Artist Performance Queue
+# Artist Performance Queue
 
 ## Project description
 
